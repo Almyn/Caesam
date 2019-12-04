@@ -1,0 +1,17 @@
+.button_blue {
+	width: 25px;
+	height: 6px;
+	background: rgba(50,50,50);
+   	padding: 20px;
+   	margin : 70px auto ;
+   	color: rgb(250,250,250);
+  	box-shadow: 0px 10px 30px rgba(0,0,0,0.1);
+  	border-radius: 4px;
+  	text-align:center;
+  	text-transform:
+}
+
+.button_blue : hover {
+box-shadow: 10px 10px 20px rgba(0,0,0,.5);
+}
+
