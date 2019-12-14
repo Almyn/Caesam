@@ -2,7 +2,7 @@
 
 @import url("components/avatar.css");
 @import url("components/banner.css");
-@import url("components/button_blue.css");
+@import url("components/button_grey.css");
 @import url("components/container.css");
 @import url("components/green_square.css");
 @import url("components/card.css");
@@ -39,10 +39,12 @@ h3 {
 a{
 	text-decoration: none ;
 	color:#393e46;
-	font-weight: lighter;
 }
 
-a:hover {
-	box-shadow: 10px 10px 20px rgba(0,0,0,.5);
+#center-grey {
+	text-align : center;
+	color: rgb(50,50,50) ;
+	font-style:italic;
 }
+
 
