@@ -1,4 +1,4 @@
-.button_blue {
+.button_grey {
 	width: 25px;
 	height: 6px;
 	background: rgba(50,50,50);
@@ -11,7 +11,7 @@
   	text-transform:
 }
 
-.button_blue : hover {
+.button_grey : hover {
 box-shadow: 10px 10px 20px rgba(0,0,0,.5);
 }
 
